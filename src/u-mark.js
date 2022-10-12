@@ -53,6 +53,14 @@ class UMark extends LitElement {
         attribute: 'grayscale'
       },
       /* TODO: SLIDE 72 */
+      invert: {
+        type: Boolean,
+        attribute: 'invert'
+      },
+      location: {
+        type: String,
+        attribute: 'location'
+      }
     };
   }
 
