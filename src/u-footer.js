@@ -51,6 +51,13 @@ class UFooter extends LitElement {
       <!-- TODO: SLIDE 111 -->
       <ul>
         <!-- TODO: SLIDE 51 -->
+        <li><a href="#privacy-statement">Privacy</a></li>
+        <li><a href="https://farktal.com">Home</a></li>
+        <li><a href="https://google.com">Google</a></li>
+        <li><a href="https://hello.com">Hello</a></li>
+        <li><a href="https://ebay.com">eBay</a></li>
+        <li><a href="https://apple.com">Apple</a></li>
+        
       </ul>`;
   }
 
